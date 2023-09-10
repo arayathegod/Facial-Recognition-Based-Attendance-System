@@ -25,6 +25,7 @@ You can install the required libraries using `pip`:
 pip install cmake
 pip install face_recognition
 pip install opencv-python
+```
 
 Usage
 Clone the repository to your local machine.
